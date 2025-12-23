@@ -4,7 +4,7 @@ This repository contains code and data used to analyze immunotherapy response us
 
 ## Reference
 
-⦁	Read the original study: [PMID: 34414122](https://pubmed.ncbi.nlm.nih.gov/34414122/)
+- Read the original study: [PMID: 34414122](https://pubmed.ncbi.nlm.nih.gov/34414122/)
 
 ## Data Sources
 - **Raw and clinical metadata** downloaded from GEO: GSE140901
